@@ -64,6 +64,11 @@
                  "name":"doorVariable",
                  "type":"string",
                  "value":"impftuere"
+                }, 
+                {
+                 "name":"zone",
+                 "type":"string",
+                 "value":"door_open_zoneImpfen"
                 }],
          "type":"tilelayer",
          "visible":true,
