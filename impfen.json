@@ -270,7 +270,7 @@
  "properties":[
         {
          "name":"script",
-         "type":"string",
+         "type":"file",
          "value":"https:\/\/unpkg.com\/@workadventure\/scripting-api-extra@%5E1\/dist\/bundle.js"
         }],
  "renderorder":"right-down",
