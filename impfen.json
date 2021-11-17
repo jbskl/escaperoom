@@ -267,6 +267,12 @@
  "nextlayerid":21,
  "nextobjectid":2,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"script",
+         "type":"string",
+         "value":"\/@workadventure\/scripting-api-extra@^1\/dist\/bundle.js\/bundle.js"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
  "tileheight":32,
