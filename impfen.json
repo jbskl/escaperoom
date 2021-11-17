@@ -56,6 +56,11 @@
                  "value":false
                 }, 
                 {
+                 "name":"code",
+                 "type":"string",
+                 "value":"4212"
+                }, 
+                {
                  "name":"doorVariable",
                  "type":"string",
                  "value":"impftuere"
