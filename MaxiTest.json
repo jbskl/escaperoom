@@ -113,11 +113,11 @@
         {
          "columns":32,
          "firstgid":1,
-         "image":"..\/..\/..\/Downloads\/tileset.png",
+         "image":"Future_tileset.png",
          "imageheight":512,
          "imagewidth":1024,
          "margin":0,
-         "name":"Future",
+         "name":"Future_tileset",
          "spacing":0,
          "tilecount":512,
          "tileheight":32,
