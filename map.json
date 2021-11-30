@@ -188,11 +188,6 @@
                          "value":"closed_door"
                         }, 
                         {
-                         "name":"code",
-                         "type":"string",
-                         "value":"12345"
-                        }, 
-                        {
                          "name":"default",
                          "type":"bool",
                          "value":false
