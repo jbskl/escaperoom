@@ -122,7 +122,40 @@
          "draworder":"topdown",
          "id":4,
          "name":"floorLayer",
-         "objects":[],
+         "objects":[
+                {
+                 "height":0,
+                 "id":1,
+                 "name":"tuere",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"closeLayer",
+                         "type":"string",
+                         "value":"closed_door"
+                        }, 
+                        {
+                         "name":"default",
+                         "type":"bool",
+                         "value":false
+                        }, 
+                        {
+                         "name":"door",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"openLayer",
+                         "type":"string",
+                         "value":"open_door"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":254.666666666667,
+                 "y":415.333333333333
+                }],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -166,7 +199,7 @@
          "y":0
         }],
  "nextlayerid":12,
- "nextobjectid":1,
+ "nextobjectid":2,
  "orientation":"orthogonal",
  "properties":[
         {
