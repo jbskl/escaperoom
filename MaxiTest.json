@@ -191,24 +191,6 @@
          "tileheight":32,
          "tiles":[
                 {
-                 "id":13,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
-                }, 
-                {
-                 "id":14,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
-                }, 
-                {
                  "id":45,
                  "properties":[
                         {
@@ -273,24 +255,6 @@
                 }, 
                 {
                  "id":106,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
-                }, 
-                {
-                 "id":107,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
-                }, 
-                {
-                 "id":108,
                  "properties":[
                         {
                          "name":"collides",
@@ -444,24 +408,6 @@
                 }, 
                 {
                  "id":220,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
-                }, 
-                {
-                 "id":234,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
-                }, 
-                {
-                 "id":235,
                  "properties":[
                         {
                          "name":"collides",
