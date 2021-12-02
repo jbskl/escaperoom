@@ -147,10 +147,10 @@
                         {
                          "name":"openLayer",
                          "type":"string",
-                         "value":"open_door"
+                         "value":"opened_door"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":254.666666666667,
