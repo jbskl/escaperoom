@@ -182,6 +182,12 @@
          "id":27,
          "name":"exittodhip",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitSceneUrl",
+                 "type":"string",
+                 "value":"ship.json#startfromflur"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":16,
