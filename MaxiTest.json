@@ -76,6 +76,12 @@
          "id":7,
          "name":"jitsi",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"escaperoomstarship"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":16,
