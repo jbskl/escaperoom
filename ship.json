@@ -381,7 +381,7 @@
                  "id":101,
                  "properties":[
                         {
-                         "name":"cillides",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
