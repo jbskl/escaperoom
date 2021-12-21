@@ -86,7 +86,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":""
+                 "value":"https:\/\/www.google.com\/maps\/@50.9482499,6.9476506,3a,75y,327.57h,65.29t\/data=!3m8!1e1!3m6!1sAF1QipNO8ktZjch93tn26JILgsPZyqT9o9-L3z8D8brN!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNO8ktZjch93tn26JILgsPZyqT9o9-L3z8D8brN%3Dw203-h100-k-no-pi0-ya311.61108-ro-0-fo100!7i9398!8i4699"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
