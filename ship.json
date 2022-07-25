@@ -58,7 +58,7 @@
                 {
                  "name":"code",
                  "type":"string",
-                 "value":""
+                 "value":"5031"
                 }, 
                 {
                  "name":"doorVariable",
@@ -336,7 +336,7 @@
          "value":"https:\/\/unpkg.com\/@workadventure\/scripting-api-extra@%5E1\/dist\/bundle.js"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.8.2",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -737,6 +737,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.8",
+ "version":"1.6",
  "width":16
 }
