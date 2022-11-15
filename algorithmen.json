@@ -179,7 +179,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/pads.c3w.at\/slide\/#\/2\/slide\/view\/DC+8ZRb15VwYjYJ8dKgzH5nvYrxa442oXLFI9kaYfhA\/embed\/present\/"
+                 "value":"https:\/\/cryptpad.fr\/slide\/#\/2\/slide\/view\/2JZwHFasD60raKeOWpNhYaxtIMgs1vgXZwVH9s+IBms\/embed\/present\/"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -217,7 +217,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/pads.c3w.at\/slide\/#\/2\/slide\/view\/W6BejBk8MpekBsj8LY2JzvH-7Emr6MBfgExJkYyrrCc\/embed\/present\/"
+                 "value":"https:\/\/cryptpad.fr\/slide\/#\/2\/slide\/view\/qqzbfO83WN-GAUjoMLgG2thiooy9+kEvLm6bXF1Xvo8\/embed\/present\/"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -255,7 +255,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/pads.c3w.at\/slide\/#\/2\/slide\/view\/A531LQcOA8MFvE6ajVuYWamyJhGQGnopD7f1r7Unr6Q\/embed\/present\/"
+                 "value":"https:\/\/cryptpad.fr\/slide\/#\/2\/slide\/view\/-SWZUfjM7NKF6bPMUYQXU146Tpt6G3ocqIDfvu-wCT4\/embed\/present\/"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -293,7 +293,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/pads.c3w.at\/slide\/#\/2\/slide\/view\/hClT2SeJqU1Gz-Ww3+CX6B33-ZqhPNCccNEIGMxfnJw\/embed\/present\/"
+                 "value":"https:\/\/cryptpad.fr\/slide\/#\/2\/slide\/view\/OPrGT3-WdgLPXe6BWVYcvcLANXqUvTwx57xrGe3ok7A\/embed\/present\/"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -331,7 +331,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/pads.c3w.at\/slide\/#\/2\/slide\/view\/X-pp6SLDBAava6C7izOF7r5cr1nNpNTCh7KJrUZMDBA\/embed\/present\/"
+                 "value":"https:\/\/cryptpad.fr\/slide\/#\/2\/slide\/view\/5bHdnR9hs766cQCYIZuGfTW8-Yv5wsrmVeDo8pQeZJY\/embed\/present\/"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -407,7 +407,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/pads.c3w.at\/slide\/#\/2\/slide\/view\/Aq9PcVRNXzVJXBdbP-r6LZ7-9Nk6okJQxPKTs9asdI4\/present\/"
+                 "value":"https:\/\/cryptpad.fr\/slide\/#\/2\/slide\/view\/xNjAAb5wFx6or0kr0K2fWbzLV5Rhe4+3XVGd9Hd-r8w\/embed\/present\/"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -472,7 +472,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/pads.c3w.at\/slide\/#\/2\/slide\/view\/5RgXlK+wHCsOgOWaxhsqNXVRwHJDvFcIytn3AwZXazo\/present\/"
+                 "value":"https:\/\/cryptpad.fr\/slide\/#\/2\/slide\/view\/N03p3MhaxR1mDqUEyvvX56-N70NhaOFurvsI+x7XrA0\/embed\/present\/"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -741,7 +741,7 @@
          "value":"https:\/\/unpkg.com\/@workadventure\/scripting-api-extra@%5E1\/dist\/bundle.js"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.9.0",
+ "tiledversion":"1.9.2",
  "tileheight":32,
  "tilesets":[
         {
