@@ -126,7 +126,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/cryptpad.fr\/slide\/#\/2\/slide\/view\/0ikRMf49Zl47WYlGAnEhb2D0Vbh2Cf-naCXCyB8ykx0\/embed\/"
+                 "value":"https:\/\/cryptpad.fr\/slide\/#\/2\/slide\/view\/0ikRMf49Zl47WYlGAnEhb2D0Vbh2Cf-naCXCyB8ykx0\/embed\/present\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -290,7 +290,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.9.0",
+ "tiledversion":"1.9.2",
  "tileheight":32,
  "tilesets":[
         {
