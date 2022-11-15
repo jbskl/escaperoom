@@ -260,13 +260,13 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":16,
          "id":17,
-         "name":"link abstimmung",
+         "name":"website",
          "opacity":1,
          "properties":[
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/pads.c3w.at\/slide\/#\/2\/slide\/view\/FnulLwzVwqkKW0g6bRO83PETYVKOmoI8rmGDxE2HJ5c\/present\/"
+                 "value":"https:\/\/cryptpad.fr\/slide\/#\/2\/slide\/view\/sSj-FFr0Q2MJWt3LPbooLNfVrVaIgW8aX96W13BE3A0\/embed\/present\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -469,7 +469,7 @@
          "value":"https:\/\/unpkg.com\/@workadventure\/scripting-api-extra@%5E1\/dist\/bundle.js"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.9.0",
+ "tiledversion":"1.9.2",
  "tileheight":32,
  "tilesets":[
         {
