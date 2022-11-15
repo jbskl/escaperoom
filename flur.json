@@ -978,7 +978,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/padlet.com\/Bildung\/escaperoom_projekt"
+                 "value":"https:\/\/padlet.com\/jbskl\/escaperoom_flur"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -1217,7 +1217,7 @@
          "value":"https:\/\/unpkg.com\/@workadventure\/scripting-api-extra@%5E1\/dist\/bundle.js"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.9.0",
+ "tiledversion":"1.9.2",
  "tileheight":32,
  "tilesets":[
         {
